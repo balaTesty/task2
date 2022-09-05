@@ -10,6 +10,10 @@ System.out.println("GreensOmr");
 	private void greensOmr(boolean locatedInThoraipakkam) {
 		System.out.println("GreensOmrLocatedIn:" + locatedInThoraipakkam);
 			}
+	private void data() {
+		// TODO Auto-generated method stub
+System.out.println("add");
+	}
 	private void greensOmr(long telephone , int roomNo ) {
 		System.out.println("GreensOmrTelephone:"+telephone +"\n" +"GreensOmrRoomNo:"+ roomNo);
 			}
